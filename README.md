@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mona Hewidy</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h3 align="center">A passionate Front-end Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/8d/a3/47/8da347af82068404afaad058adf75085.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monahewidy&label=Profile%20views&color=0e75b6&style=flat" alt="monahewidy" /> </p>
 
